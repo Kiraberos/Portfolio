@@ -26,11 +26,6 @@ html {
     
     -webkit-user-select: none;
     user-select: none;
-    
-    -webkit-touch-callout: none;
-    -ms-touch-action: none;
-    
-    touch-action: none;
     speak: none;
     font-family: sans-serif;
 }
