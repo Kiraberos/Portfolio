@@ -378,6 +378,10 @@ input[type=number] {
     .hp-text {
        font-size: 2em;
     }
+    .header_mouse_container{
+        bottom: -115px;
+    }
+    
 }
 
 @media screen and (max-width: 320px) {
