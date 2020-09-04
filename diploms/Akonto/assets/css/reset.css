@@ -23,6 +23,8 @@ html {
     
     tap-highlight-color: transparent;
     -webkit-touch-callout: none;
+    overflow-y: scroll; 
+    -webkit-overflow-scrolling: touch;
     
     -webkit-user-select: none;
     user-select: none;
