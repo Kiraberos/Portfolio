@@ -377,7 +377,7 @@ input[type=number] {
     .hp-text {
        font-size: 2em;
     }
-    .header_mouse_container{
+    .header__mouse__container{
         bottom: -115px;
     }
     
