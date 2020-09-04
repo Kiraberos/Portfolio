@@ -27,7 +27,7 @@ html {
     -webkit-user-select: none;
     user-select: none;
     overflow-y: scroll; 
-     -webkit-overflow-scrolling: touch;
+    -webkit-overflow-scrolling: touch;
     speak: none;
     font-family: sans-serif;
 }
